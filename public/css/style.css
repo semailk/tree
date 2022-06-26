@@ -1,0 +1,35 @@
+.main-box {
+    height: 200px;
+    width: 100%;
+}
+
+.main-title {
+    padding: 30px;
+}
+
+.main-description {
+    color: greenyellow;
+    padding: 30px;
+}
+
+label {
+    color: #6c757d;
+}
+
+input {
+    height: 50px;
+}
+
+.col-md-5 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.price-per-tree {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
